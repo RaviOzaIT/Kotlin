@@ -1,10 +1,14 @@
 import java.util.*
 
+// www.raviroza.com
+// 28-Jan-22, 6.52 pm
+// program to demonstrate various arrays in kotlin
+
 fun main()
 {
 
     var numbers = arrayOf (1,2,3,4,5)
-    var names = arrayOf ("ravi","amit","jamnagar")
+    var names = arrayOf ("raviroza.com","amit","jamnagar")
 
     var numbers1 = intArrayOf (1,2,3,4,5)
 
