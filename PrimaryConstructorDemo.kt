@@ -1,3 +1,5 @@
+// www.raviroza.com
+// 15-Jan-2022, 4.00
 class Person (_name : String) {
     var name: String
 
